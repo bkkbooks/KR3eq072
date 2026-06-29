@@ -1,0 +1,125 @@
+canonical_identifier: bkk:krp/KR3eq072/v1
+canonical_location: https://kanripo.org/bkk/KR3eq072/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 裴子言醫
+  identifiers:
+    krp: KR3eq072
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq072.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq072_000.yaml, hash: 'sha256:29f30098e3cd6eeba546527b3a349d85f50206c0da919d16e629a4c3dfd00976'}
+  - {seq: 1, filename: KR3eq072_001.yaml, hash: 'sha256:e37942ebd2c105a504db71c196c002d4870a8529bb1331acc63c6be2153ad30b'}
+  - {seq: 2, filename: KR3eq072_002.yaml, hash: 'sha256:79f90971388ef75ff497cfed8c7a4092f6b3e5b0e84f59f659883362e7c231f0'}
+  - {seq: 3, filename: KR3eq072_003.yaml, hash: 'sha256:bc461180cb24fbf378192470b0bed00003d8328378e115d9f46958a2decb66e8'}
+  - {seq: 4, filename: KR3eq072_004.yaml, hash: 'sha256:ca7cba09fa6a81eeaa18eac09829771cd4b48220b33ce1a60c33d6514ecc87e7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq072_000.markers.yaml, hash: 'sha256:d319af01a14bf97755515aab9aaa5cd89992c9c1ea3c17554f07e7674d6adea5'}
+  - {seq: 1, role: markers, filename: assets/KR3eq072_001.markers.yaml, hash: 'sha256:5b9a00cf6c23ec2f137a27a02559759762f6d9d8827cad941258c12a13a62b92'}
+  - {seq: 2, role: markers, filename: assets/KR3eq072_002.markers.yaml, hash: 'sha256:d2a89fcc7b85cc6bc2ac2caae1d0e166b9de4ef95d563e80d34d654e4e0abacb'}
+  - {seq: 3, role: markers, filename: assets/KR3eq072_003.markers.yaml, hash: 'sha256:e899a64551ca2553b36da557153ad127ec5ac1c1be1a1084e328994f2532aff4'}
+  - {seq: 4, role: markers, filename: assets/KR3eq072_004.markers.yaml, hash: 'sha256:296b2f2c15c46bb92cb22ed35e4b0ef6a947330e36f70e21bd51367ecd545a65'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq072_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 307
+  label: 毛序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq072_jc_000-d3.h1s1
+    span:
+    - front
+    - 307
+    - 906
+  label: 趙序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq072_jc_000-d4.h1s1
+    span:
+    - front
+    - 906
+    - 1538
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq072_jc_000-d5.h1s1
+    span:
+    - front
+    - 1538
+    - 2288
+  label: 陳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq072_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 857
+  label: 凡則
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq072_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 8148
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq072_jc_002-d8.h1s1
+    span:
+    - body
+    - 0
+    - 13391
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq072_jc_003-d9.h1s1
+    span:
+    - body
+    - 0
+    - 12648
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eq072_jc_004-d10.h1s1
+    span:
+    - body
+    - 0
+    - 8533
+  label: 卷之四
+  type: section
+  level: 1
+hash: sha256:2e6b9b6ec32aeec086a8328d11df69607654f9c071c30aafe72d049f026e1241
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
